@@ -113,7 +113,7 @@ window.snake.more_menu = function(e) {
 
   // ultrabullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/7Znv60Rc/no.png';
+  img.src = 'https://i.postimg.cc/hPqRLWQB/4854-amogus.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -137,7 +137,7 @@ window.snake.more_menu = function(e) {
 
   // ultradeath
   img = new Image;
-  img.src = 'https://cdn.discordapp.com/attachments/723093815786864661/894620725888040981/unknown.png';
+  img.src = 'https://i.postimg.cc/Hn60k1fy/images-removebg-preview.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -167,7 +167,7 @@ window.snake.more_menu = function(e) {
   img.height = 47;
   document.querySelector('#count').appendChild(img);
 
-  // 87
+  // 213
   img = new Image;
   img.src = 'https://i.postimg.cc/mZmx4Tqc/alotactually.png';
   img.width = 47;
@@ -183,7 +183,7 @@ window.snake.more_menu = function(e) {
 
   // apple nuke
   img = new Image;
-  img.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
+  img.src = 'https://i.postimg.cc/J4dcwm3w/Screenshot-2021-09-21-at-5-16-26-PM.png';
   img.width = 47;
   img.height = 47;
   document.querySelector('#count').appendChild(img);
@@ -496,7 +496,7 @@ window.snake.more_menu = function(e) {
               __b = document.body.getElementsByClassName('UJhXPd wSwbef EWyEF')[0];
               [...__b.children].forEach((e, i) => i > 1 && (__b.removeChild(__b.children[i])));
               __c = new Image;
-              __c.src = 'https://i.postimg.cc/fbvMtyDx/applenuke.png';
+              __c.src = 'https://i.postimg.cc/J4dcwm3w/Screenshot-2021-09-21-at-5-16-26-PM.png';
               __c.width = __c.height = 47;
               __c.style = 'position:fixed;top: 10px;';
               __b.appendChild(__c);
